@@ -1,0 +1,11 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;}
+
+  .header{
+border-color: black;
+border: solid 6px;}
+
+
+
